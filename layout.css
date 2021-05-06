@@ -48,6 +48,7 @@ nav > ul {
 nav > ul > li {
 	display: table-cell;
 	text-align: center;
+	width: 20%;
 }
 
 nav > ul > li > a {
