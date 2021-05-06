@@ -69,3 +69,14 @@ dl {
 	width: 40%;
 	margin: 0 0 0 4%;
 }
+
+/* Image Styles */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.round {
+  border-radius: 50%;
+}
